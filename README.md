@@ -6,8 +6,8 @@
 - 生成AIと音声読み上げを搭載した単語帳アプリ
 
 ##③DEMO
-- 卒業制作である単語帳アプリのLPの骨子(gif/gif1.gif)
-- Swiftで作成途中のトップページの画像(gif/gif2.gif)
+- 卒業制作である単語帳アプリのLPの骨子 `gif/gif1.gif`
+- Swiftで作成途中のトップページの画像 `gif/gif2.gif`
 
 ##④作成アプリのIDまたはPW
 - ID/PASSなし
